@@ -1,0 +1,34 @@
+body {
+    background-color: #3498db;
+  }
+
+  .login-container {
+    background-color: #fff;
+    margin-top: 100px;
+    padding: 20px;
+    border-radius: 5px;
+  }
+
+  .google-login-btn {
+    background-color: #dd4b39;
+    border-color: #dd4b39;
+  }
+
+  .google-login-btn:hover,
+  .google-login-btn:focus {
+    background-color: #c53727;
+    border-color: #c53727;
+  }
+
+  .google-login-btn i {
+    margin-right: 10px;
+  }
+
+  .icon-container {
+    text-align: center;
+  }
+
+  .icon-container i {
+    font-size: 40px;
+    color: #fff;
+  }
